@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rohit Panchal
 
-### 🚀 Frontend Developer | DSA Enthusiast | Aspiring Full Stack Developer
+### 🚀 Frontend Backend Developer | DSA Enthusiast | Aspiring Full Stack Developer
 
 I'm passionate about building modern web applications and solving Data Structures & Algorithms problems. Currently, I'm focused on creating industry-level frontend projects using React, Next.js, TypeScript, and Tailwind CSS.
 
@@ -10,9 +10,11 @@ I'm passionate about building modern web applications and solving Data Structure
 
 - Next.js 14 (App Router)
 - TypeScript
+- JavaScript
 - Advanced React
 - Data Structures & Algorithms (Java)
 - System Design Basics
+- AWS(Amazon Web Services)
 
 ---
 
@@ -32,6 +34,7 @@ I'm passionate about building modern web applications and solving Data Structure
 - Node.js
 - Express.js
 - MongoDB
+- PostgreSQL Databases
 
 ### Tools
 - Git
@@ -70,8 +73,8 @@ A modern SaaS platform that helps recruiters evaluate candidates through interac
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/rohit-9893
-- LinkedIn: *(Add your LinkedIn link here)*
-- Email: *(Add your email here)*
+- LinkedIn: www.linkedin.com/in/rohit-panchal-55b876282
+- Email: rohitpanchal958466@gmail.com
 
 ---
 
